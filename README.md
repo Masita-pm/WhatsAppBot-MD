@@ -159,7 +159,7 @@ yarn
 ## ⚠️ Installing
 ```bash
 $ node .
-```
+`
   
   <br><br><br><br><br>
   
